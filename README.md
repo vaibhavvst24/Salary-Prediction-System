@@ -1,15 +1,15 @@
 # Salary Prediction System
 
-📌 Overview
+## 📌 Overview
 
 This project focuses on classifying salary levels based on various input features using supervised machine learning techniques. 
 Multiple classification models are implemented and compared to determine the most effective method for predicting salary categories.
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 The goal is to predict whether a person's salary falls into a particular category based on features such as age, education, experience, and more. This problem is treated as a classification task.
 
-📂 Dataset
+## 📂 Dataset
 
 Source: Salary Data.csv
 
@@ -17,7 +17,7 @@ Description: Contains various attributes related to individuals' professional pr
 
 Target Variable: Salary Category (e.g., <=50K, >50K)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Programming Language: Python
 
@@ -29,7 +29,7 @@ Matplotlib, Seaborn for data visualization
 
 scikit-learn for modeling and evaluation
 
-⚙️ Workflow
+## ⚙️ Workflow
 
 Data Loading & Preprocessing
 
@@ -69,7 +69,7 @@ Classification Report (Precision, Recall, F1-score)
 
 Comparison of model performances
 
-📈 Results
+## 📈 Results
 
 The models are evaluated and compared based on their predictive accuracy and robustness.
 
