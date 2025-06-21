@@ -1,4 +1,4 @@
-Salary Classification Project
+Salary Prediction System
 
 📌 Overview
 
