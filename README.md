@@ -1,4 +1,4 @@
-Salary Prediction System
+# Salary Prediction System
 
 📌 Overview
 
